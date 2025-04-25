@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model and output files
+*.pkl
+*.png
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Virtual environments (if any)
+venv/
+.env/
+
+# Docker
+*.log
